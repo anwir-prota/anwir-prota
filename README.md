@@ -2,6 +2,9 @@
   <b>Hi, I'm Anwir!</b><br>
   <a href="https://github.com/anwir-prota">Github</a>
 </p>
+
+--- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwir-prota)](https://github.com/anwir-prota/github-readme-stats)
 ![Anwir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwir-prota&show_icons=true)
 
