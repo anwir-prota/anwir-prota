@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwir-prota)](https://github.com/anwir-prota/github-readme-stats)
 ![Anwir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwir-prota&show_icons=true)
 
-> I'm An American Python Oriented Programmer 
-> Currently Working With The Heretiks
-> I enjoy exploiting, web and Discord Hacking, OSINT and development. 
+- > I'm An American Python Oriented Programmer 
+- > Currently Working With The Heretiks
+- > I enjoy exploiting, web and Discord Hacking, OSINT and development. 
 # About My Life As An Internet Icon
 * Hello! I'm Anwir Prota! I enjoy Web Development & Programming. My favorite MLs are HTML, AIML & CSS. For programming I'm fluint in JavaScript & Python3. 
 * I plan on learning Go, React, and Node.js.
