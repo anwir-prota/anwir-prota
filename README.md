@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi, I'm Anwir!</b><br>
-  <a href="https://github.com/anwir-prota">Github</a>
+  <a href="https://github.com/anwir-prota">Github</a> |
   <a>@anwirprota:matrix.org (Matrix)</a>
 </p>
 
