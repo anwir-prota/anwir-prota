@@ -8,7 +8,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwir-prota)](https://github.com/anwir-prota/github-readme-stats)
 ![Anwir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwir-prota&show_icons=true)
-
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
 - > I'm An American Python Oriented Programmer 
 - > Currently Working With The Heretiks
 - > I enjoy Web Hacking, Web Development, and Information Gathering. 
